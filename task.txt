@@ -1,0 +1,196 @@
+1. What is Django in python?
+a. A framework              b. A library
+c. A function               d. A script
+ans: a 
+
+2. What is the base principle of MVT in Django?
+a. Model, Template, View
+b. Model, View, Template
+c. Template, Model, View
+d. Template, View, Model
+ans: b 
+
+3. How does Django handle URL routing?
+a. By using functions
+b. By using a fixed path
+c. By using classes
+d. By using regular expressions
+ans: d 
+
+4. What is the default database used in Django?
+a. Oracle           b. SQLite
+c. PostgreSQL       d. MySQL
+ans: b 
+
+5. What does the Django ORM (Object-Relational Mapping) do?
+a. Maps objects to relational database tables
+b. Maps relational database tables to objects
+c. Provides data validation
+d. Manages database connections
+ans: a 
+
+6. What is Django's template language used for?
+a. Data validation
+b. URL routing
+c. Dynamic HTML generation
+d. Object-Relational Mapping
+ans: c 
+
+7. What is Django's forms module used for?
+a. URL routing
+b. Data validation and form generation
+c. Dynamic HTML generation
+d. Object-Relational Mapping
+ans: b 
+
+8. What is Django's caching framework used for? (caching)
+a. Storing data in memory for quick retrieval
+b. Persisting data across multiple requests
+c. Generating dynamic HTML
+d. Validating user input
+ans: a 
+
+9. What is Django's middleware in web development?
+a. A tool for sending email
+b. A tool for handling sessions
+c. A tool for modifying the request and response objects
+d. A tool for managing database connections
+ans: c 
+
+10. What is Django's staticfiles app used for?
+a. Serving static files like images, CSS, and JavaScript
+b. Generating dynamic HTML
+c. Handling user authentication
+d. Storing data in cache
+ans: a 
+
+11. How does Django protect against CSRF (Cross-Site Request Forgery) attacks?
+a. By using a secret key
+b. By using SSL/TLS
+c. By using a unique token for each request
+d. By using a fixed path
+ans: a 
+
+12. What is Django's admin app used for?
+a. Generating dynamic HTML
+b. Handling user authentication
+c. Providing an interface for managing application data
+d. Serving static files
+ans: c 
+
+13. What is Django's security principle "Don't trust the client"?
+a. All data received from the client should be validated before use
+b. Data stored on the client is always secure
+c. The client cannot be trusted to provide correct data
+d. The client always knows what it is doing
+ans: a 
+
+14. What is the preferred way to start a new Django project?
+a. Manually creating all necessary files and directories
+b. Using the Django startproject command
+c. Copying an existing project
+d. Using a code editor's project template
+ans: b 
+
+15. What is the purpose of Django's manage.py file?
+a. To run the development server
+b. To manage project-level configuration and tasks
+c. To handle URL routing
+d. To serve static files
+ans: b
+
+16. What is Django's FileField used for?
+a. Storing files in a database
+b. Handling user authentication
+c. Generating dynamic HTML
+d. Serving static files
+ans: a 
+17. What Django use for?
+a. game development         b. app development
+c. web development          d. just for fun 
+ans: c 
+
+18. What is flask?
+a. Flask is a WSGI framework
+b. Build-in ORM 
+c. No support for Visual Debug
+d. Monolithic Working Style
+ans: a 
+
+19. Name some Companies that use Django.
+a. Facebook
+b. Youtube
+c. Instagram
+d. Nasa 
+ans: c 
+
+20. What is the difference between a Project and an App?
+a. project is defined as the entire application
+b. App is defined as the entire project
+c. App is use for game
+d. none of them
+ans: a 
+
+21. What are not the Features of using Django?
+a. Django is not SEO optimized.
+b. In-build mitigation 
+c. Easy inheritance
+d. Middleware class support
+ans: a 
+
+22. How do you create a Django project?
+a. django_admin startproject projectname
+b. django admin startproject projectname
+c. django-admin startproject projectname
+d. start project project-name 
+ans: c 
+
+23. How do we start our development server?
+a. python manage.py runserver
+b. runserver
+c. django start
+d. npm run start 
+ans: a 
+
+24. How do you manage?
+a. python manage.py migrate
+b. python make_manage.py
+c. python manage.py makemigrations
+c. python manage.py make_migrations
+ans: a 
+
+25. By using MVT could we use react?
+a. Yes
+b. No
+ans: b 
+
+26. How to create a superuser?
+a. python manage.py createsuperuser
+a. django manage.py createsuperuser
+a. flask manage.py createsuperuser
+a. admin manage.py createsuperuser
+ans: a 
+
+27. Dose SQLite support SQL?
+a. Yes
+b. No 
+ans: a 
+
+28. Does Django support NoSQL?
+a. Yes
+b. No 
+ans: b 
+
+29. How would you query all the items in the database table?
+a. XYZ.objects.all()
+b. XYZ.data.all()
+b. XYZ.filter.all()
+b. XYZ.all()
+ans: a 
+
+30. How to query one item from the database table?
+a. XYZ.objects.get(id=1) 
+b. XYZ.objects.get(pk=1) 
+b. XYZ.objects.get(pk.id=1) 
+b. XYZ.objects.get(pk) 
+ans: a 
